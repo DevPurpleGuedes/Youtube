@@ -20,3 +20,4 @@ while True:
         sg.popup_ok('Download Concluído com sucesso!')
         
 janela.close()
+
